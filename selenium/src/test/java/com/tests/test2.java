@@ -7,7 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class test2 {
-	@Test//to check test
+	@Test//to test or perform testing
 	public void testGitHubLogin()
 	{
 		//for downloading exe file of a browser, since browsers are not developed by seleniumhq//
